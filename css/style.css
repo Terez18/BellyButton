@@ -1,0 +1,20 @@
+body {
+
+    color: #000000;
+  }
+
+  .jumbotron {
+    background-image: url("../image/bb.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+  }
+
+  .jumbotron {
+    font-family: "Times New Roman", Times, serif;
+  }
+
+  .row {
+    font-family: "Times New Roman", Times, serif;
+  }
+
+  
